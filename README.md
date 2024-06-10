@@ -26,10 +26,15 @@ Pseduocode
 Start 
 
 Declartions
+
 val Start
+
 val View
+
 val Clear
+
 val Save 
+
 val Exit
 
 
