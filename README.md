@@ -1,4 +1,5 @@
-SAWeather Application 
+SAWeather Application
+
 BY Thabiso Thabethe ST10444690
 
 I have developed a mobile Application called SaWeather. The Purpose of SaWeather is to help users with planning for their day by showing Temperatures for all areas of South Africa. 
