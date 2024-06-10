@@ -28,14 +28,15 @@ class MainActivity2 : AppCompatActivity() {
         val EditText: EditText = findViewById(R.id.editText)
         val TextView: TextView = findViewById(R.id.textView3)
         val bundle: Bundle? = intent.extras
-
+// Button to clear text
         Clear.setOnClickListener { EditText.text.clear() }
 
         View.setOnClickListener {
 
             val intent = Intent(this, MainActivity3::class.java)
             startActivity(intent)
-
+            
+// Button to return to previous screen
             Exit.setOnClickListener {
 
                 val intent = Intent(this, MainActivity::class.java)
