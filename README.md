@@ -18,3 +18,5 @@ Detailed screen showing user the weather forecast for specific day entered.
 ![Screenshot (4)](https://github.com/Thabiso67/The_Weather_App/assets/160724052/4bdf6f0d-1d58-4d6c-b04e-c03fc9fe11cc)
 
 
+GITHUB Link: 
+https://github.com/Thabiso67/The_Weather_App
