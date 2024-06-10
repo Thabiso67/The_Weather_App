@@ -11,10 +11,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+// Declartion
         val Button: Button = findViewById(R.id.start_btn)
         val bundle: Bundle? = intent.extras
-
+Button to move next screen
         Button.setOnClickListener {
 
             val intent = Intent(this, MainActivity2::class.java)
