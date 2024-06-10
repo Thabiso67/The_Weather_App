@@ -10,8 +10,4 @@
     </style>
     <style name="Theme.TheWeatherApp" parent="Base.Theme.TheWeatherApp" />
 
-    <style name="Theme.App.Splashscreen." parent="Theme.Splashscreen.">
-        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_text</item>
-        </style>
-
 </resources>
